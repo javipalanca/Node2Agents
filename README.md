@@ -1,5 +1,10 @@
 # Node2Agents  
 
+![](public/node2agents.png)
+
+
+
+
 Node2Agents is a web application that allows users to visually design agent-based systems using a node-based interface. The designed agents and behaviors are then converted into executable code using [SPADE](https://github.com/javipalanca/spade), a multi-agent system framework.  
 
 ## Features  
